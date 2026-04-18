@@ -65,7 +65,6 @@ Ensure you have the necessary development headers.
 **For Arch Linux / CachyOS:**
 ```bash
 sudo pacman -S base-devel gtk3 libusb pkgconf
-**For Arch Linux / CachyOS:**
 ```
 **For Fedora:**
 ```bash
