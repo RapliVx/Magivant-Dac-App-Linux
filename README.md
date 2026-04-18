@@ -71,7 +71,7 @@ sudo pacman -S base-devel gtk3 libusb pkgconf
 ```bash
 sudo dnf install gcc gtk3-devel libusb1-devel pkgconf-pkg-config
 ```
-### 2.Manual Build
+### 2. Manual Build
 **Clone the repository and run the compilation in your terminal:**
 ```bash
 git clone https://github.com/RapliVx/Magivant-Dac-App.git
